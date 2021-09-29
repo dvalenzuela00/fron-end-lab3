@@ -630,7 +630,7 @@ body{
 }
 @media all and (max-width: 1494px){
     .nav a{
-        padding-left: 10px;
+        padding: 0 10px 0 10px;
     }
     .principal{
         flex-flow: row wrap;
